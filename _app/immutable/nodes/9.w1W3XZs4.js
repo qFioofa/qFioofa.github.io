@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as t}from"../chunks/DrNAjrhG.js";import{R as e}from"../chunks/CYgJF_JY.js";/* empty css                */function n(r,o){throw new e(r,o.toString())}new TextEncoder;function f(r,o){throw t(o,!1),n(404,"/")}export{f as component};

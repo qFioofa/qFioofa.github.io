@@ -1,0 +1,1 @@
+import{T as n}from"./C8ml1-5k.js";import{w as s}from"./D8ajXV1s.js";const e=new n(!0),i=s(0),r=s(!1);e.addUpdateListener(t=>i.set(t));e.addRunningListener(t=>r.set(t));function u(){e.toggle()}function m(){e.pause(),e.timeSubtract(e.toMs()/1e3)}export{m as r,u as t,i as u};
